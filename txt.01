@@ -1,0 +1,16 @@
+ 1194  ls
+ 1195  pwd
+ 1196  cd ..
+ 1197  ls
+ 1198  cd 9bed59e0-bc56-47ee-9132-2262cae177be
+ 1199  ls
+ 1200  cd 6
+ 1201  git status
+ 1202  history> txt01.
+ 1203  git status
+ 1204  git add .
+ 1205  git commit -m "txt01"
+ 1206  git status
+ 1207  git status
+ 1208  cd ..
+ 1209  cd 7
