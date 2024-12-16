@@ -1,0 +1,16 @@
+ 1477  mkdir -p inner/project/rec
+ 1478  ls -la 
+ 1479  tree inner
+ 1480  git status
+ 1481  history > inner/project/rec/somefile.txt
+ 1482  git status
+ 1483  git status
+ 1484  history > something 
+ 1485  git status
+ 1486  history > something 
+ 1487  git status
+ 1488  git status
+ 1489  history > something 
+ 1490  git status
+ 1491  git status
+ 1492  mkdir test
